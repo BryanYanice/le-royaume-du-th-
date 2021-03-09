@@ -1,0 +1,44 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: "poppins", sans-serif;
+}
+
+header
+{
+    background-color: #8fb900;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+h1
+{
+    font-size: 22px;
+}
+
+#color
+{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 12px;
+    border: 2px solid #fff;
+    /*margin-top: 15px;
+    margin-bottom: 15px;*/
+}
+
+#color :hover
+{
+    color: #8fb900;
+    background-color: white;
+}
+
+#test
+{
+    width: 1160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0px 15px 0px;
+}
